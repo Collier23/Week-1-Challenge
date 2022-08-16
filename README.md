@@ -2,9 +2,8 @@
 
 ## Description
 This webpage was made without using semantic HTML and CSS elements and structures and we were required to make changes to meet those requirements and make it more ledgible.
-
-    ![Screenshot](assets/images/Screenshot.jpg)
     
+![Screenshot](https://user-images.githubusercontent.com/109792980/184824209-42acfb2b-7912-4e87-a3a9-f2d1d692e5a9.jpg)
 
 ## Installation
 N/A

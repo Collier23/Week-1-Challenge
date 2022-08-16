@@ -11,3 +11,6 @@ N/A
 
 # Usage
 This website is used to give information about Search Engine Optimization, Online Reputation Management and Social Media Marketing and has a breif run down on each of them.
+
+### Link
+https://collier23.github.io/Week-1-Challenge/

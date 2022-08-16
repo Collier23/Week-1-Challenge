@@ -7,3 +7,7 @@ This webpage was made without using semantic HTML and CSS elements and structure
 
 ## Installation
 N/A
+
+
+# Usage
+This website is used to give information about Search Engine Optimization, Online Reputation Management and Social Media Marketing and has a breif run down on each of them.
